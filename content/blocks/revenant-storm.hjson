@@ -1,0 +1,25 @@
+type: UnitFactory
+localizedName: Game Crash Factory
+description: "JESUS CHRIST THAT'S A LOT OF REVENANTS.\n[#FF0000]Don't place or game die.;)"
+health: 300
+produceTime: 1
+maxSpawn: 2000
+unitType: revenant
+hasPower: true
+itemCapacity: 5
+consumes: {
+  items: {
+    items: [
+    ]
+  }
+}
+size: 10
+category: units
+requirements: [
+  normalsand/1
+  plastanium/1
+  titanium/1
+  lead/1
+  silicon/1
+]
+research: revenant-factory

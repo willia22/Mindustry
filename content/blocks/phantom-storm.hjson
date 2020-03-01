@@ -1,0 +1,25 @@
+type: UnitFactory
+localizedName: Phantom Storm Factory
+description: "JESUS CHRIST THAT'S A LOT OF PHANTOM BUILDERS.\n[#FF0000]Place at your own risk. ;)"
+health: 200
+produceTime: 1
+maxSpawn: 200
+unitType: phantom
+hasPower: false
+itemCapacity: 5
+consumes: {
+  items: {
+    items: [
+    ]
+  }
+}
+size: 2
+category: units
+requirements: [
+  normalsand/9
+  titanium/9
+  thorium/9
+  lead/9
+  silicon/9
+]
+research: phantom-factory

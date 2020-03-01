@@ -1,0 +1,22 @@
+type: Vault
+name: Really Bigger Box
+description: Thanks, I really needed the extra storage!
+health: 750
+itemCapacity: 69250
+size: 10
+rotate: true
+category: effect
+requirements: [
+  normalsand/9
+  copper/9
+  lead/9
+  titanium/9
+  thorium/9
+  silicon/9
+  graphite/9
+  metaglass/9
+  plastanium/9
+  surge-alloy/9
+  phase-fabric/9
+]
+research: vault

@@ -1,0 +1,23 @@
+type: LiquidTank
+name: Artificial Lake
+description: Stors liquid. Wait what.
+health: 750
+liquidCapacity: 69420
+solid: false
+size: 6
+hasShadow: false
+category: liquid
+requirements: [
+  normalsand/9
+  copper/9
+  lead/9
+  titanium/9
+  thorium/9
+  silicon/9
+  graphite/9
+  metaglass/9
+  plastanium/9
+  surge-alloy/9
+  phase-fabric/9
+]
+research: liquid-tank

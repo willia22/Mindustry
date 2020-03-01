@@ -1,0 +1,12 @@
+buildVisibility: shown
+health: 169
+description:
+  '''
+  Infinitely creates power.
+  [green]Now avalable in campaign due to the Extra Sand in the Sandbox Mod!
+  '''
+alwaysUnlocked: true
+requirements: [
+  normalsand/9
+]
+research: impact-reactor
